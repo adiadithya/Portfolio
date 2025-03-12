@@ -70,3 +70,11 @@ Working as a **Manual QA Tester** at **Mykademy Learning Private Ltd**. My role 
 - [QA Training](https://szkoleniedlaqa.pl/szkolenie/)
 - [Fundamentals of Manual Software Testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 - [Postman - REST API Testing](https://www.udemy.com/course/kurs-postman/#instructor-1)
+
+
+### Certificates :trophy:
+* [DareIT Challenge - become a manual tester](https://drive.google.com/file/d/1YpGj2B1LOWcX6n43XOarXhscEBcZT1O6/view?usp=sharing)
+* [Operating DevTools](https://drive.google.com/file/d/1ivc7_YJ9rcasOwIgwA87S9SmqcefSwqr/view?usp=sharing)
+* [Fundamentals of manual software testing](https://www.udemy.com/certificate/UC-cb1f1ecf-5dbb-4879-896d-469cdaa18751/)
+* [Postman - REST API testing](https://www.udemy.com/certificate/UC-34482c92-39fa-4fed-ae79-fa441c429cc6/)
+* [INCO Green Digital Skills](https://drive.google.com/file/d/1s_PxjBdtJznErCLK6pftFKwhvPNynW1a/view?usp=drive_link)
